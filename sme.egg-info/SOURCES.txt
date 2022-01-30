@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+sme/__init__.py
+sme/discretize.py
+sme/io.py
+sme/metrics.py
+sme/scaling.py
+sme.egg-info/PKG-INFO
+sme.egg-info/SOURCES.txt
+sme.egg-info/dependency_links.txt
+sme.egg-info/requires.txt
+sme.egg-info/top_level.txt

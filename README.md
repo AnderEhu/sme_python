@@ -1,4 +1,4 @@
-# Entrega software matemático y estadístico: Libreria SME
+# Entrega software matemático y estadístico: Librería SME
 ## Hay cuatro modulos:
 - discretization.R
 - io.R

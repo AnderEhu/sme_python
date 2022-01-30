@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: sme
+Version: 0.1
+Summary: Trabajo final software matematico y estadistico
+Home-page: [Indicar una URL para el paquete...]
+Author: Ander Alonso
+Author-email: aalonso213@ikasle.ehu.eus
+License: LICENSE.txt
+Description: # Entrega software matemático y estadístico: Librería SME
+        ## Hay cuatro modulos:
+        - discretization.R
+        - io.R
+        - metrics.R
+        - scaling.R
+        ## Documentación:
+        Cada módulo dispone un notebook/html con explicación y ejemplo en la carpeta docs. Además al instalar el paquete se dispone de ayuda mediante help(funcion)
+        
+Platform: UNKNOWN
